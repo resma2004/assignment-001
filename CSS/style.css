@@ -1,15 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
 * {
     margin: 10px;
     padding: 20px;
+    font-family: "Roboto", serif;
 }
 
-body {
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
-}
 
 .happy {
-    background-image: url(../public/Banner\ Image.png);
+    background-image: url("../public/Banner\ Image.png");
     background-size: cover;
     background-position: center;
     width: 1320px;
