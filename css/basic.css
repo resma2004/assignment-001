@@ -6,6 +6,10 @@
     font-family: "Roboto", serif;
 }
 
+body {
+    text-align: center;
+}
+
 
 .happy {
     background-image: url("../public/Banner\ Image.png");
